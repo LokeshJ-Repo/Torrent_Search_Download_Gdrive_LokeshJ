@@ -30,9 +30,9 @@ Torrents can be copied folder wise or in compressed format
 
 # Screenshot
 
-![Getting Torrent Link](https://github.com/spireon-ex10/Torrent-To-Google-Drive-Downloader-v2/raw/master/Image/01.jpg)
+![Searching Torrent](https://github.com/lokeshj074/Torrent_Search_Download_Gdrive_LokeshJ/blob/main/Screen_shot1.jpg)
 
-![Pasting Torrent Link](https://github.com/spireon-ex10/Torrent-To-Google-Drive-Downloader-v2/raw/master/Image/02.jpg)
+![Downloading Torrent](https://github.com/lokeshj074/Torrent_Search_Download_Gdrive_LokeshJ/blob/main/Screen_shot2.jpg)
 
 
 
